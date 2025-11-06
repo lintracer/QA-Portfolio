@@ -8,7 +8,7 @@ Here I collect my **bug reports**, **test cases**, and **testing notes**.
 ## 🐞 Bug Reports
 | ID | Title | App / Site | Severity | Link |
 |----|--------|-------------|-----------|------|
-| 001 | Video lesson not playing (Error 153) | English learning app | Medium | [View report](.(https://github.com/alinakucherenko7991/QA-Portfolio/blob/main/Bug%20001) |
+| 001 | Video lesson not playing (Error 153) | English learning app | Medium | [View report](./bug-reports/bug-001.md) |
 
 
 ---
