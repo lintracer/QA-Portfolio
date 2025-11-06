@@ -21,6 +21,15 @@ Here I collect my **bug reports**, **test cases**, and **testing notes**.
 
 ---
 
+## ✅ Checklists
+| ID | Title | Area | Link |
+|----|--------|-------|------|
+| CL-001 | Create a new post | Posting | [View checklist](./checklists/CL-001-post-creation.md) |
+| CL-002 | Edit profile | Profile | [View checklist](./checklists/CL-002-profile-edit.md) |
+| CL-003 | Basic feed interactions | Feed | [View checklist](./checklists/CL-003-feed-basic.md) |
+
+---
+
 ## 🔬 Beta Testing — Threads (via TestFlight)
 
 **Role:** Beta tester (iOS, TestFlight)  
