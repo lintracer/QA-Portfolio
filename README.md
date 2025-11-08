@@ -8,10 +8,10 @@ Here you will find my **bug reports**, **test cases**, **checklists**, and **QA 
 ## 🐞 Bug Reports
 | ID | Title | App / Site | Severity | Status | Link |
 |----|--------|------------|---------|--------|------|
-| BR-001 | Video lesson not playing (Error 153) | English Galaxy | Medium | Open | [View report](./bug-reports/BR-001-video-not-playing.md) |
-| BR-002 | Images fail to load in the feed | Threads | Medium | Open | [View report](./bug-reports/BR-002-images-fail.md) |
-| BR-003 | Like counter does not update after liking a post | Threads | Low | Open | [View report](./bug-reports/BR-003-like-counter.md) |
-| BR-004 | Keyboard responds with delay in post creation field | Threads | Medium | Open | [View report](./bug-reports/BR-004-keyboard-lag.md) |
+| BR-001 | Video lesson not playing (Error 153) | English Galaxy | Medium | Open | [View report](./bug-reports/bug-001.md) |
+| BR-002 | Images fail to load in the feed | Threads | Medium | Open | [View report](./bug-reports/bug-002.md) |
+| BR-003 | Like counter does not update after liking a post | Threads | Low | Open | [View report](./bug-reports/bug-003.md) |
+| BR-004 | Keyboard responds with delay in post creation field | Threads | Medium | Open | [View report](./bug-reports/bug-004.md) |
 
 > **Note:** Bug reports include detailed steps to reproduce, expected vs actual behavior, reproducibility, and attachments.
 
