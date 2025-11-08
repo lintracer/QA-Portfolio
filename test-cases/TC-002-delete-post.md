@@ -1,56 +1,53 @@
-# Test Case: Delete an existing post
+# ✅ Test Case
 
-**ID:** TC-002  
+**Test Case ID:** TC-002  
 **Title:** Deleting an existing post  
+**Requirement ID (if exists):**  
+**Module / Area:** Post Management  
+**Type:** Functional  
 **Priority:** Medium  
-**Module:** Post Management  
-**Platform:** iOS (Threads via TestFlight)  
-**Prepared by:** Alina  
-**Status:** Ready
+**Severity:** Major  
+
+**Preconditions:**  
+- User is logged into Threads  
+- User has at least one existing post in their profile  
+- Internet connection is active  
+- App is open on the Profile screen  
+
+**Environment:**  
+- Device: iPhone (TestFlight build)  
+- OS version: iOS  
+- App version / Browser: Threads (TestFlight)  
+- Network: Wi-Fi or Mobile Data
 
 ---
 
-## ✅ Preconditions
-- User is logged into Threads.
-- User has at least one existing post in their profile.
-- Internet connection is active.
-- App is open on the **Profile** screen.
+## ✅ Test Steps
+
+| Step | Action | Expected Result |
+|------|---------|------------------|
+| 1 | Navigate to the Profile screen | Profile loads successfully |
+| 2 | Locate an existing post | Post is visible |
+| 3 | Tap the three-dot menu (…) on the post | Options menu opens |
+| 4 | Tap Delete | Confirmation dialog appears |
+| 5 | Tap Delete again in confirmation dialog | Post is removed from the account |
+| 6 | Return to the profile feed | Post list updates and deleted post is gone |
 
 ---
 
-## ✅ Steps to reproduce
+## ✅ Expected Result
 
-1. Navigate to the **Profile** screen.  
-2. Locate any previously created post.  
-3. Tap the **three-dot menu** (…) on the selected post.  
-4. Tap **Delete**.  
-5. Confirm the action by tapping **Delete** again in the confirmation dialog.  
-6. Return to the profile feed and verify the post list.
-
----
-
-## ✅ Expected result
-
-- A confirmation dialog appears after tapping **Delete**.  
-- After confirming, the post is permanently removed.  
-- The deleted post no longer appears in:  
-  - user’s profile,  
-  - the main feed,  
-  - search results (if applicable).  
-- No errors occur during the deletion process.  
-- The profile refreshes correctly.
+- Confirmation dialog appears after tapping Delete  
+- After confirming, the post is permanently removed  
+- Post no longer appears in:  
+  - user’s profile  
+  - main feed  
+  - search results (if applicable)  
+- No errors occur during deletion  
+- Profile refreshes correctly  
 
 ---
 
 ## ✅ Postconditions
-- The selected post is permanently removed from the account.
 
----
-
-## ✅ Notes
-- If the post contained media (photo/video), ensure no residual thumbnails or placeholders remain.
-- Test should be repeated with:  
-  - long posts,  
-  - posts with media,  
-  - posts made less than 1 minute ago (fresh publish).  
-- Check deleting posts both on Wi-Fi and mobile data.
+- The selected post is permanently removed from the account
