@@ -13,10 +13,10 @@
 - App has permission to access photos  
 
 **Environment:**  
-- Device: iOS 
+- Device: iPhone XS 
 - OS version:  18.6.2
 - App version:  Threads 405.1
-- Network: Wi-Fi
+- Network: Wi-Fi or Mobile Data
 
 ---
 
