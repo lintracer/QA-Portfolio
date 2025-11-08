@@ -20,11 +20,11 @@ Here you will find my **bug reports**, **test cases**, **checklists**, and **QA 
 ## 🧩 Test Cases
 | ID | Title | Area | Status | Link |
 |----|--------|------|--------|------|
-| TC-001 | Create a new post | Posting | Ready | [View case](./test-cases/TC-001-create-post.md) |
-| TC-002 | Delete an existing post | Posting | Ready | [View case](./test-cases/TC-002-delete-post.md) |
-| TC-003 | Edit profile | Profile | Ready | [View case](./test-cases/TC-003-edit-profile.md) |
-| TC-004 | Login form validation | Authentication | Ready | [View case](./test-cases/TC-004-login-form-validation.md) |
-| TC-005 | Upload photo to a new post | Media / Posting | Ready | [View case](./test-cases/TC-005-upload-photo.md) |
+| TC-001 | Create a new post | Posting | Ready | [View case](./test-cases/tc-001.md) |
+| TC-002 | Delete an existing post | Posting | Ready | [View case](./test-cases/tc-002.md) |
+| TC-003 | Edit profile | Profile | Ready | [View case](./test-cases/tc-003.md) |
+| TC-004 | Login form validation | Authentication | Ready | [View case](./test-cases/tc-004.md) |
+| TC-005 | Upload photo to a new post | Media / Posting | Ready | [View case](./test-cases/tc-005.md) |
 
 > **Note:** Test cases cover functional, UI, and negative scenarios for Threads and English Galaxy apps.
 
