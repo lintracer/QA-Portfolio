@@ -69,4 +69,4 @@ Performed hands-on testing of core features, including onboarding, posting, medi
 ## 📬 Contacts
 - **Name:** Alina Kucherenko  
 - **Email:** alina.kucherenko7991@gmail.com  
-- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/alina-kucherenko)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/alina-kucherenko)
