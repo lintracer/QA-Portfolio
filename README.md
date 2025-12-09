@@ -12,6 +12,7 @@ Here you will find my **bug reports**, **test cases**, **checklists**, and **QA 
 | BR-002 | Images fail to load in the feed | Threads | Medium | Open | [View report](./bug-reports/bug-002.md) |
 | BR-003 | Like counter does not update after liking a post | Threads | Low | Open | [View report](./bug-reports/bug-003.md) |
 | BR-004 | Keyboard responds with delay in post creation field | Threads | Medium | Open | [View report](./bug-reports/bug-004.md) |
+| BR-005 | Valorant crashes after training; "PMID Card Problem Generic" appears | Valorant | High | Open | [View report](./bug-reports/bug-005.md) |
 
 > **Note:** Bug reports include detailed steps to reproduce, expected vs actual behavior, reproducibility, and attachments.
 
