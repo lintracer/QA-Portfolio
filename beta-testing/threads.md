@@ -4,7 +4,6 @@
 **Platform:** iOS / TestFlight  
 **Period:** [Jan–Jun 2025]  
 **Role:** Beta tester — functional testing, exploratory testing, feedback submission
-
 **Threads beta testing** – Bug Reports (6 total)
 
 ---
