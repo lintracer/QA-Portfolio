@@ -3,7 +3,7 @@
 ## Overview
 **Project:** Gothic 1 Remake (Demo)  
 **Platform:** PC / Windows  
-**Period:** [Month Year]  
+**Period:** Jan 2026 - Feb 2026 
 **Role:** QA Tester — exploratory and functional testing  
 
 **Summary:**  
@@ -42,14 +42,14 @@ Tested demo build on PC. Conducted exploratory testing across key gameplay flows
 
 ## Resources
 - Environment: Windows PC  
-- Testers: Alex (QA Tester)  
+- Testers: Alina (QA Tester)  
 - Game version: Gothic 1 Remake Demo  
 - Hardware: Standard PC configuration  
 
 ---
 
 ## Schedule
-- Test execution: [Month Year]  
+- Test execution: Jan 2026 - Feb 2026 
 - Observations and feedback: Ongoing during testing period  
 
 ---
