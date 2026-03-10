@@ -81,7 +81,7 @@ Performed exploratory and functional testing across key gameplay flows, includin
 
 **Deliverables:** Test notes, UX observations, screenshots.  
 
-[See detailed notes](.beta-testing/gothic-1-remake(demo).md)
+[See detailed notes](./beta-testing/gothic-remake(demo).md)
 
 ---
 
