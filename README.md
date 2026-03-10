@@ -5,6 +5,18 @@ Here you will find my **bug reports**, **test cases**, **checklists**, and **QA 
 
 ---
 
+## 📝 Test Plans
+
+| Project | Platform | Period | Role | Link |
+|---------|---------|--------|------|------|
+| Threads (Beta) | iOS / TestFlight | Jan–Jun 2025 | Beta tester — functional & exploratory | [Test Plan](./test-pan/test-plan-threads.md) |
+| Gothic 1 Remake (Demo) | PC / Windows | [Month Year] | QA Tester — exploratory & functional | [Test Plan](./test-pan/test-plan-gothic.md) |
+| Adorable Adventures (Demo) | PC / Windows | [Month Year] | QA Tester — exploratory & functional | [Test Plan](./test-pan/adorable-adventures.md) |
+
+> **Note:** Each test plan includes scope, approach, resources, schedule, exit criteria, risks, and reported bugs (if any).
+
+---
+
 ## 🐞 Bug Reports
 | ID | Title | App / Site | Severity | Status | Link |
 |----|--------|------------|---------|--------|------|
