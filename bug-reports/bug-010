@@ -1,0 +1,61 @@
+# 🐞 Bug Report Template
+
+**ID:** BR-001  
+**Title:** Unable to create Jobrowse Offer / plan selection not working  
+**Project / App:** Jobrowse Website  
+**Module / Area:** Job seeker workflow / Plan selection / Account creation  
+**Severity:** Blocker  
+**Priority:** High  
+**Environment:**  
+- Device: Desktop PC  
+- OS version: Windows 11  
+- App version / Browser: Chrome 143  
+- Network: Home
+
+**Preconditions:**  
+- User has accessed the Jobrowse recruitment announcement on TalentDays: https://talentdays.pl/praca-i-staz/jobrowse-otwarta-rekrutacja-przyjmujemy-wszystkie-zgloszenia-ReBPr  
+- User has clicked “Aplikuj” and reached www.jobrowse.com  
+
+---
+
+## ✅ Steps to Reproduce:
+1. Click “Join Jobrowse” on the homepage and enter full name, e-mail, and phone number.  
+2. Receive e-mail with discount code START2026 and link “CHECK IT OUT NOW”.  
+3. Click on “CHECK IT OUT NOW” → redirected back to the homepage.  
+4. Scroll down and click “View plans” → plans for job seekers and employers are visible, but **cannot be clicked**, plans cannot be selected or purchased, discount code cannot be applied.  
+5. Scroll to blog post: https://www.jobrowse.com/blog/jobrowse-introduction → the clickable line “Sign up for the Jobrowse waiting list today” again leads only to e-mail subscription.  
+
+---
+
+## ✅ Expected Result:
+- After selecting a plan, the user should be able to: create a Jobrowse Offer, select the work model, make a payment (if required), and apply the discount code.  
+- Buttons and navigation should be fully interactive and functional.  
+
+---
+
+## ✅ Actual Result:
+- Plan selection buttons do not work.  
+- Cannot create a Jobrowse Offer.  
+- Discount code cannot be applied.  
+- No functional login/account button available.  
+- All interactive elements (plans, blog links, navigation buttons) either non-clickable or redirect back to homepage.  
+
+---
+
+## ✅ Reproducibility:
+- 100% (tested multiple times on desktop, Chrome 143, Windows 10)  
+
+---
+
+## ✅ Additional Information:
+- Logs: None visible  
+- Console output: Not inspected  
+- API response / Status codes: N/A  
+- Notes: Currently, only e-mail subscription is functional; all other intended workflows are inaccessible.  
+
+---
+
+## 📎 Attachments:
+- Screenshots: Optional  
+- Videos: Optional  
+- Files: Optional  
