@@ -2,7 +2,7 @@
 
 **Project:** Adorable Adventures (Demo)  
 **Platform:** PC / Windows 11 
-**Period:** February 2026
+**Period:** Feb 2026 - Mar 2026
 **Role:** QA Tester — exploratory and functional testing
 
 **Adorable Adventures beta testing** – 6 confirmed bugs + UX observations
