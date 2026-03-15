@@ -79,6 +79,8 @@ Participated in beta testing of early platform builds and new features. Performe
 
 **Deliverables:** Bug reports, exploratory testing notes, screenshots.
 
+[See detailed notes](./beta-testing/steam-beta.md)
+
 ---
 
 ## 🔬 Beta Testing — Threads (via TestFlight)
