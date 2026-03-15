@@ -29,6 +29,7 @@ Here you will find my **bug reports**, **test cases**, **checklists**, and **QA 
 | BR-007 | Inventory and quest board not intuitive to close | Adorable Adventures | Medium | Open | [View report](./bug-reports/bug-007.md) |
 | BR-008 | Main character accelerates too fast during sprint | Adorable Adventures | Medium | Open | [View report](./bug-reports/bug-008.md) |
 | BR-009 | Character collides and launches to unrealistic height | Adorable Adventures | Medium | Open | [View report](./bug-reports/bug-009.md) |
+| BR-010 | Unable to create Jobrowse Offer / plan selection not working | Jobrowse Website | High | Open | [View report](./bug-reports/bug-010.md) |
 
 > **Note:** Bug reports include detailed steps to reproduce, expected vs actual behavior, reproducibility, and attachments.
 
