@@ -69,6 +69,18 @@ Reusable templates for QA documentation in Markdown format:
 
 ---
 
+## 🧪 Platform & Game Beta Testing — Steam
+
+**Role:** Beta Tester (PC, Windows)  
+**Platform:** Steam  
+
+**Activities:**  
+Participated in beta testing of early platform builds and new features. Performed exploratory testing of the Steam client, focusing on UI navigation, usability, and feature functionality. Additionally tested selected games available through beta access, identifying gameplay bugs, performance issues, and usability problems. Reported issues with clear reproduction steps and provided feedback on user experience and platform stability.
+
+**Deliverables:** Bug reports, exploratory testing notes, screenshots.
+
+---
+
 ## 🔬 Beta Testing — Threads (via TestFlight)
 
 **Role:** Beta tester (iOS, TestFlight)  
