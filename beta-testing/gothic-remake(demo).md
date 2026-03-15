@@ -1,8 +1,8 @@
 # 🎮 Game Testing — Gothic 1 Remake (Demo)
 
 **Project:** Gothic 1 Remake (Demo)  
-**Platform:** PC / Windows  
-**Period:** [Month Year]  
+**Platform:** PC / Windows  11
+**Period:** February 2026 
 **Role:** QA Tester — exploratory and functional testing
 
 **Gothic 1 Remake beta testing** – No critical bugs found; functionality verified
