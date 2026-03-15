@@ -1,8 +1,8 @@
 # 🎮 Game Testing — Adorable Adventures (Demo)
 
 **Project:** Adorable Adventures (Demo)  
-**Platform:** PC / Windows  
-**Period:** [Month Year]  
+**Platform:** PC / Windows 11 
+**Period:** February 2026
 **Role:** QA Tester — exploratory and functional testing
 
 **Adorable Adventures beta testing** – 6 confirmed bugs + UX observations
