@@ -136,6 +136,3 @@ Tested 5 pre-release builds on iOS devices. Conducted exploratory testing across
 - TestFlight builds of Threads (pre-release iOS versions)
 - iOS device logs and crash reports
 - Personal exploratory testing notes
-
-### Test-Cases
-[View case](./test-cases/QASE Threads.pdf) 
