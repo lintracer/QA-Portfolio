@@ -1,52 +1,38 @@
-# 🐞 Bug Report Template
-
-**ID:**  
-**Title:**  
-**Project / App:**  
-**Module / Area:**  
-**Severity:** (Blocker / Critical / Major / Medium / Low)  
-**Priority:** (High / Medium / Low)  
-**Environment:**  
-- Device:  
-- OS version:  
-- App version / Browser:  
-- Network:
-
-**Preconditions:**  
--  
 ---
-
-## ✅ Steps to Reproduce:
-1.  
-2.  
-3.  
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
-## ✅ Expected Result:
-(Describe the correct, expected behavior)
+**Describe the bug**
+A clear and concise description of what the bug is.
 
----
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-## ✅ Actual Result:
-(Describe what actually happens)
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
----
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-## ✅ Reproducibility:
-- (100%, 80%, random, etc.)
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
 
----
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
 
-## ✅ Additional Information:
-- Logs:  
-- Console output:  
-- API response / Status codes:  
-- Notes:
-
----
-
-## 📎 Attachments:
-- Screenshots:  
-- Videos:  
-- Files:  
+**Additional context**
+Add any other context about the problem here.
